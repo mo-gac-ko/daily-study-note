@@ -44,4 +44,4 @@
 
 #### 라이프사이클 메서드의 흐름
 
-![image](./lifecycle.png)
+<img src="./lifecycle.png" width="60%">
